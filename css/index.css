@@ -1,0 +1,11 @@
+.hero {
+  background-image: url(../images/leftcrowd.jpg);
+}
+.hero::before {
+  background-color: rgba(0, 0, 0, 0.7);
+  content: "";
+  display: block;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
