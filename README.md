@@ -1,5 +1,7 @@
 # This repo contains the PyData Manipal website
 
+https://pydata-manipal.github.io/
+
 ## Contributing
 - Fork this repository
 - Clone your fork
